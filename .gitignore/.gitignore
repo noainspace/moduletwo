@@ -1,0 +1,161 @@
+Authors note: 
+
+Note: this scene is not in a game world, its just a blender art which means it still has to be translated to be put into a game engine… or something like that 
+
+Originally I had planned to animate the  scene and have smoke clouds come out of the factory. The rendering process this would have taken would’ve taken to much time but I since I did do the research on how to do it I included the notes in the in paradata. Considering that the next module will be to create a game and since I have made a really simple 2d game in unity before, I decided to make kind of a setting for the game. Its a factory on a mountain surrounded by rocket terrain and the premise would be to go and destroy it because it is hurting the environment (kinda like that one episode in Avatar). So where does the 3d model come in? First of all the rocky terrain is the 3d model. I converted it into a height map that I used to portion out the terrain. I tried to incorporate the model in different ways that were more present in the scene but couldn’t because of the file type and technical issues I ran into with regard 3D (I lost the editing file so I couldn’t go in and see if there was a different format for the file that I could use, later on I learned that there wasn’t a different file after all). I also tried to work with the 3d model itself but it wasn’t compatible with blender which is the only 3d platform I have that could make the sophisticated scene I wanted. Messing around with the 3d model took up a lot of time which is frustrating since that was the one thing I didn’t want to do. The next thing I did that took up time was design characters that I wanted to just put into the scene somewhere and maybe animate, but by the time I had created them I knew that I didn’t have the time to rig them so I ended up just settling on doing the scene. The final module however should be pretty advanced visual wise which is why I’m not too upset about how much time I spent making things that weren’t necessary for this module but will be for the next. 
+
+
+Intro:
+
+Compensation: the last module was… rough to say the least. In this module I wanted to do more to compensate for what I took as a failure. I did the thing again where I push for too much and get spread out thin because I love creating art. When I started to plan out this scene I drew several different sketched for the island, the characters, the sky, the water, everything. I was really into the creation of the world and I would do It all…. If I had more time. It was all too much to do. So when I finally settled on a realistic goal I had already lost time. The idea I had was to make the 3d object into a mountain because honestly, the model looks horrifyingly ugly. I ran into a whole bunch of problems which will be explained in my notes but I settled on creating a simple scene in blende and maybe animate some clouds. I have made things in blender but that was with a partner back in high school and he was very well versed in game creation and also blender so whenever I touched the wrong button or messed up he would just fix it and I really never learned blender. 
+
+Reality: Blender is just math the majority of the time. I had to go into graph mode, add a math engine to the particle creator, even colouring in blender is math-y. I suck at math and numbers. When it comes to rigging, and animating I can understand math, but colouring? Really? Math! The conclusion is I should’ve done math in high school, but instead I went to Japan and took culinary classes. I ended up using a lot more tutorials for this project than I thought I would. 
+It’s different from that happy resistance still felt by hands-on creators of humanities software and encoding systems.”
+Ok, I get it now. I so totally get it. Getting the codes and numbers right when creating this scene was just as gratifying as any other form of fine art.  
+
+
+ Morris imagines, and the resistance digital humanities novices feel when they pick up fresh tool sets or enter new environments, is different from the productive “resistance in the material” encountered by earlier generations of computing humanists.
+When doing this module this quote really bugged me because of how it felt condescending and directly at me. The earlier generations would’ve been expecting the amount of breakage and set backs they would encounter but the newer generation in my opinion would just get frustrated (like I did) and want to quit (like I did) because all we get to see are the fancy end products the professionals put out or the ease of the process found in tutorial online. Just because the newer generation uses more technology now than the older generation doesn’t mean we actually understand it. in fact I think we understand it less now because we don’t ever know how these functions work in real life which is the basis that all of these programmes are coded for. 
+
+About the object
+Its not coloured properly but I’m pretty happy with how the ocean turned out. I took the original 3d object and made it into a height map then threw into blender and put some more object like a factory, a mountain, and an ocean surrounding it to make into a nice piece of digital art. Its nothing to fancy but its something that can only be done digitally and can be incorporated into the next module which is put everything into game. 
+
+Open note book
+
+The first thing I want to do is come up with a premise. I think I’m gonna create a 3d animated scene in blender (i took inspiration form this post). I also want to have characters in it and maybe set it up so they look like they’re on a journey to defeat like a final boss or something of the sort. Here are the sketches:
+
+Day1: Today I’m gonna do some research on blender and all that jazz. I’m gonna go in and start creating the character today as well. 
+
+Day2:Since the human character is being difficult I’m gonna scrap it and go with an animal maybe fantasy character.
+
+Day3:Today I Will be continuing with character creation. 
+
+Day4:I’ve realized that this is going to take way to long so I’m gonna go straight to creating the height map today and then start on the scene. I tired to create the terrain today but i think I’m doing something wrong? Its not working…
+
+Day5:I made the mountains today instead. I’m doing everything low poly.
+
+Day6:Im gonna redo the height map and this time flatten the image of the 3d object then make it. It worked this time I don’t know what I was doing wrong the first time this is like the same thing but I’m not that technical advanced so…??
+
+Day7:I think I have time to make the characters so i’m gonna try and see if I can finish them today.
+
+Day8:Yeah I don’t have time for them… I finished them but I don’t have time to colour them. 
+
+Day9: I’ve decided on just and animated scene with the smoke clouds coming up so I’ve done research today on how to make that happen.
+
+Day10Today I made the terrain and set it up with the mountains and it looks good!
+
+Day11:Making the factory today
+
+Day12:Factory work today again.
+
+Day13:My other courses are being seriously neglected I have 2 paper due so I’m taking 4 days off to finish them both (hopefully) and not die.
+
+Day17:Back at it again and I created some trees to put into the scene but then I thought that it would suit the scene more to have tree stumps so I created that instead. I don’t know how to put the tree stumps in though they’re in a different file. Ugh. 
+
+Day18:Today I tried to make the smoke and it worked for like 5 minutes then something happened I’m pretty sure its because of the difference between Blender render and Cycles.
+
+Day19:Im gonna start writing stuff because I’m cutting it c l o s e with the deadline.
+
+Day20:The colours… suck. I don’t have the time to make textures in blender and I’m to broke to purchase them so its not very pretty but whatever. At least they’re in colour, y’know?
+
+
+
+Paradata 
+
+Making the characters, the factory, the mountains, was basically just me making shapes and stuff in blender there is no real paradata but here’s the process for creating the things I didn’t know how to. I basically watched videos and then took notes and very carefully followed them. 
+
+
+Creating the terrain
+
+Edite mode
+Place place - “w” key - subdivide- key in “100” - enter 
+
+Object mode
+Modifier - displace - new texture - add height map - apply 
+
+Edit mode 
+ “z” key - get ride of the bottom particles 
+
+Object mode
+modifer- decimate - turn down ratio - apply
+
+Add plane and place on the bottom 
+
+Edit mode
+“c” key for sweep select - colour select 
+
+
+
+
+
+Creating the smoke 
+
+(cycles render)
+
+Object mode
+
+Place plane over smoke hole - add particle system - field weight - gravity (negative number setting) - velocity - ‘z’ key
+
+System preferences - import- images as plane- save settings 
+
+Particle setting - render - obj - search ‘smoke plane’
+
+Make sure oration is checked 
+
+Textures - new texture - name file ‘smoke over time’
+Environment texture- check ‘particle system over time’- type ‘blend’- uncheck ‘tin’ - choose size
+
+Change generated to strand particle (makes the smoke fade over time) 
+
+Render panel - light paths- increase transparency (around 150 for both max .& min.)
+
+Open note editor 
+
+select master image 
+ Discontent image texture 
+
+Add: shader > mixed shadow 
+Add: shader> transparent 
+
+Connect image texture to transparent and original to mix shader which is connected to material output. 
+
+Add: input > particles info
+Add: converter > math > set to divide 
+Add: converter > colour ramp (divide value) 
+Add: colour > mix RGB
+
+Image texture - colour 1 (white) 
+
+Ocean 
+
+Object mode 
+Select cube - modifier - ocean 
+Resolution 15
+Scale 1
+Choppiness 0
+
+Make sure you’re in the first frame. Hover mouse over Time and key ‘i’  and set as 0
+Skip to the last frame and set as 15
+
+Graph editor - select all -key ‘v’ - vector (return to 3d view) 
+
+Materials tab
+Intensity - 0.5
+Speller type - W
+Slope- 1.5
+Mirror >reflective 0.5
+
+Texture - name ocean B - cloud type
+
+Influence - turn off colour 
+Geo- turn on normal (make negative 1.5)
+
+Create new texture - name ‘ocean colour’
+
+Type- blend
+Colours - turn on colour ramp - select (make sure u’ve deleted the active colour)
+
+Coordinates - generated.
+
+Conclusion 
+I made a lot of stuff! And I had fun doing it! This was a fun experience and the blender community on reddit put up with a lot of my whining and basically held my hand the entire time. For the next module I really think I could have the characters rigged up so they can run around in the world but like… no promises but it looks like a real possibility because I can get started on it right now. All the might do is like run around on the terrain but it would be an accomplishment all the same.   
